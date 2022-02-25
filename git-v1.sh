@@ -23,7 +23,6 @@ git pull
 git add --all .
 
 rm /home/erik/DATA/papirus-dark-tela/usr/share/icons/Papirus-Dark-Tela/icon-theme.cache
-gtk-update-icon-cache /home/erik/DATA/papirus-dark-tela/usr/share/icons/Papirus-Dark-Tela/
 
 # Give a comment to the commit if you want
 echo "####################################"
