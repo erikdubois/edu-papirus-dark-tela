@@ -22,6 +22,8 @@ git pull
 # Below command will backup everything inside the project folder
 git add --all .
 
+gtk-update-icon-cache /usr/share/icons/Papirus-Dark-Tela
+
 # Give a comment to the commit if you want
 echo "####################################"
 echo "Write your commit comment!"
