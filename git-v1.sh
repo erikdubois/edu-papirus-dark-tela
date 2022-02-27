@@ -22,7 +22,7 @@ git pull
 # Below command will backup everything inside the project folder
 git add --all .
 
-rm /home/erik/DATA/papirus-dark-tela/usr/share/icons/Papirus-Dark-Tela/icon-theme.cache
+#rm /home/erik/DATA/edu-papirus-dark-tela/usr/share/icons/Papirus-Dark-Tela/icon-theme.cache
 
 # Give a comment to the commit if you want
 echo "####################################"
