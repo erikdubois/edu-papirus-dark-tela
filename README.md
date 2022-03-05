@@ -1,4 +1,4 @@
-# Making of ArcoLinux-Candy-Beauty-Tela
+# Edu-papirus-dark-tela
 
 Learn, have fun and enjoy.
 
