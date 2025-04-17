@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Edu Papirus Dark Tela
+Name=edu-papirus-dark-tela
 Comment=Papirus icon theme for dark themes with Tela folder icons
 Inherits=Papirus-Dark,Surfn,gnome,hicolor
 Example=folder
