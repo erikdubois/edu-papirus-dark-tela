@@ -2,7 +2,7 @@
   <img src="kiro.jpg" alt="Kiro" width="220" />
 </p>
 
-# edu-papirus-dark-tela
+# kiro-papirus-dark-tela
 
 Erik's hybrid icon theme: the [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) dark icon set with selected folder icons swapped in from the [Tela](https://github.com/vinceliuice/Tela-icon-theme) family. Part of the `~/EDU/` icon-theme series.
 
@@ -13,7 +13,7 @@ Erik's hybrid icon theme: the [Papirus](https://github.com/PapirusDevelopmentTea
 
 ## Sibling variant
 
-- [edu-papirus-dark-tela-grey](https://github.com/erikdubois/edu-papirus-dark-tela-grey) — grey-folder variant.
+- [kiro-papirus-dark-tela-grey](https://github.com/kirodubes/kiro-papirus-dark-tela-grey) — grey-folder variant.
 
 ## Installation
 
@@ -27,14 +27,14 @@ Server = https://erikdubois.github.io/$repo/$arch
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S edu-papirus-dark-tela
+sudo pacman -S kiro-papirus-dark-tela
 ```
 
 ### Manual
 
 ```bash
-git clone https://github.com/erikdubois/edu-papirus-dark-tela.git
-cd edu-papirus-dark-tela
+git clone https://github.com/kirodubes/kiro-papirus-dark-tela.git
+cd kiro-papirus-dark-tela
 sudo cp -r usr/share/icons/. /usr/share/icons/
 sudo gtk-update-icon-cache -f /usr/share/icons/<theme-folder>
 ```

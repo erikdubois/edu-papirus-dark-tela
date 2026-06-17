@@ -1,4 +1,4 @@
-# CLAUDE.md — edu-papirus-dark-tela
+# CLAUDE.md — kiro-papirus-dark-tela
 
 ## Project overview
 
